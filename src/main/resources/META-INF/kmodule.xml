@@ -1,0 +1,6 @@
+<kmodule xmlns="http://www.drools.org/xsd/kmodule"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<configuration>
+    <property key="org.kie.dmn.strictConformance" value=true/>
+<property key="org.kie.dmn.runtime.typecheck" value=true/>
+</configuration>

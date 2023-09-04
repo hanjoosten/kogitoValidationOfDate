@@ -1,0 +1,23 @@
+target
+
+*.code-workspace
+
+
+**/kie-dmn-xls2dmn-*.jar
+
+**/\~$*.xlsx
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Log bestanden hoeven niet onder versiebeheer
+*.log
+*.Log
+
+# IntelliJ files      #
+######################
+.idea/
+
